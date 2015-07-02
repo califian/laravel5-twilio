@@ -1,5 +1,8 @@
 laravel5-twilio
 ===============
+
+**IMPORTANT: Please use [aloha/laravel-twilio](https://github.com/aloha/laravel-twilio) as it now supports laravel 5 and is actively maintained, as a result this fork is no longer maintained.**
+
 Laravel 5 Twillio API Integration
 
 
